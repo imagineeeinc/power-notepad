@@ -28,7 +28,7 @@
     "electron-dl": "^3.0.2"
   },
   "devDependencies": {
-    "electron": "^30.0.1",
+    "electron": "^30.0.5",
     "electron-reload": "^1.5.0",
     "electron-builder": "^24.13.3"
   },
